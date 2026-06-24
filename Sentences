@@ -12,29 +12,41 @@ Active:
 
 ---
 
-A server misconfiguration on March 26, 2026, exposed internal Anthropic files.
-This leak revealed the existence of their unreleased, highly powerful cybersecurity model, "Claude Mythos."
+What is it?
+Claude Mythos," a next-generation model with advanced offensive and defensive cyber capabilities.
+US Senate testimony revealed that the Mythos model could identify vulnerabilities in highly secure U.S. government systems within hours.
+
+How actually happened? 
+On March 26, 2026, it wasn't a malicious hack or a leak of user data. 
+A configuration error in Anthropic's content management system (CMS) accidentally left a digital toggle switch in the wrong position, making internal files publicly accessible.
+
+The Big Picture:
 The leak was not just a tech story; it actively rattled the American financial and defense sectors due to the sheer power of the unreleased model.
 
-
-The leak was not just a tech story; it actively rattled the American financial and defense sectors due to the sheer power of the unreleased model.
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 | Metric / Event        | Detail & Impact | Data Source |
 | --------------------- | ----------------------------------------------------------------------------- | ---------------------------------- |
 | Stock Market Reaction | Major U.S. cybersecurity stocks (including CrowdStrike and Palo Alto Networks) 
-                           dropped 4% to 7% immediately following the news.                              | Fortune / Bloomberg (March 2026) |
+                           dropped 4% to 7% immediately following the news.                              | Fortune / Bloomberg (March 2026)  |
 | Exposed Assets        | Roughly 3,000 internal, unpublished files** and 
                            draft blog posts became publicly searchable due to a CMS toggle error. 
-                                                                                                          | CSO Online* (March 2026) |
-> The Big Picture:
-Weeks later, Senate testimonies revealed that the Mythos model was capable of identifying vulnerabilities in highly secure U.S. government systems within hours.
+                                                                                                          | CSO Online* (March 2026)         |
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Following the accidental leak of Claude Mythos details in March 2026, Anthropic officially stepped forward to address the situation. 
+Anthropic officially stepped forward to address the situation. 
 Instead of a standard public release, they launched Project Glasswing on April 7, 2026.  
+
 "Glasswing" is not actually a standalone model; it is a highly controlled, defensive cybersecurity initiative built around the Claude Mythos Preview model. 
 The name comes from the glasswing butterfly, which has transparent wings—a metaphor for exposing hidden software vulnerabilities. 
 
+U.S. tech giants like-
+Microsoft, Google, Apple, Amazon Web Services (AWS), NVIDIA, CrowdStrike, Palo Alto Networks, Cisco, and JPMorgan Chase were the only U.S. banking giants (Wall Street institutions)
+are using the model- 
+to scan core operating systems, cloud networks, and web browsers.
+
+The AI did something unprecedented: 
+it uncovered over 10,000 high- or critical-severity vulnerability candidates in its first month alone.
 
 
 
