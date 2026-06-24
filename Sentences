@@ -15,6 +15,17 @@ Active:
    AI-Expensive-Project
 ----------------------------
 
+Data centers last for decades, but the expensive AI processors inside them (like Nvidia chips) become obsolete in 3 to 5 years. 
+If revenues don't cover the principal debt before the chips expire, companies face devastating asset write-downs.
+
+### 3-Year Cumulative AI Infrastructure Investments & Earnings (2024–2026)
+
+| Company           | Estimated 3-Year Capex | Current AI Revenue (2026 Annual Run Rate) |Core AI Projects & Infrastructure Focus |  Valid Financial Sourcing |
+| ----------------- | ---------------------- | ------------------------------------------- | --- | --- |
+| Microsoft         | $250+ Billion          | $37.0 Billion |Azure AI global hub expansions; multi-billion OpenAI compute funding; 5-GW "Stargate" AI supercomputer phase-1 deployment. |  *SEC EDGAR 10-K Filings / Morgan Stanley Credit Research (June 2026)* |
+| Amazon (AWS)      | $210+ Billion          | $15.0 Billion | Multi-year Anthropic compute hosting; proprietary Trainium/Inferentia chip clusters; direct purchases of nuclear-powered data centers. |  *Amazon CEO Shareholder Disclosures / Futurum Research Group (Q2 2026)* |
+| Alphabet (Google) | $190+ Billion          | $17.0 Billion | Custom Tensor Processing Unit (TPU v5/v6) foundries; full-scale Gemini 3 model training; $4.75B Project Intersect clean energy acquisitions. |*Alphabet Investor Presentation / Bloomberg Intelligence (June 2026)* |
+| Meta (Facebook)   | $120+ Billion          | $6.5 Billion  | Massive procurement of 600,000+ Nvidia H100/B200 equivalents; heavy Llama 4/5 open-source cluster training; autonomous GEM video-ad engine. |  *Meta Investor Relations / Bank of America Credit Research (2026)* |
 
 
 
