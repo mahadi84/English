@@ -34,11 +34,8 @@ The leak was not just a tech story; it actively rattled the American financial a
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Anthropic officially stepped forward to address the situation. 
-Instead of a standard public release, they launched Project Glasswing on April 7, 2026.  
-
-"Glasswing" is not actually a standalone model; it is a highly controlled, defensive cybersecurity initiative built around the Claude Mythos Preview model. 
-The name comes from the glasswing butterfly, which has transparent wings—a metaphor for exposing hidden software vulnerabilities. 
+To control the damage, Anthropic launched Project Glasswing on April 7, 2026. Instead of a public release, 
+They limited access to a tight defensive coalition with:
 
 U.S. tech giants like-
 Microsoft, Google, Apple, Amazon Web Services (AWS), NVIDIA, CrowdStrike, Palo Alto Networks, Cisco, and JPMorgan Chase were the only U.S. banking giants (Wall Street institutions)
@@ -46,7 +43,7 @@ are using the model-
 to scan core operating systems, cloud networks, and web browsers.
 
 The AI did something unprecedented: 
-it uncovered over 10,000 high- or critical-severity vulnerability candidates in its first month alone.
+It uncovered over 10,000 high- or critical-severity vulnerability candidates in its first month alone.
 
 
 
